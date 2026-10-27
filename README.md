@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="<img width="1812" height="923" alt="Screenshot 2026-10-27 195913" src="https://github.com/user-attachments/assets/ee29ee15-a5f8-4556-90d9-15855a4a35b9" />
-" width="160px" style="border-radius: 50%;" alt="Rakesh Sen Profile Picture"/>
+<img width="160px" style="border-radius: 50%;" alt="Rakesh" src="https://github.com/user-attachments/assets/fcb25b4d-989d-4918-860a-fe33bf8b4244" />
   
   # Hi there! I'm Rakesh Sen 👋
   ### 📊 Data Scientist | Machine Learning & AI Enthusiast
