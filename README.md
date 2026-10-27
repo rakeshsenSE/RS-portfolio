@@ -1,5 +1,5 @@
 <div align="center">
-<img width="160px" style="border-radius: 50%;" alt="Rakesh" src="https://github.com/user-attachments/assets/fcb25b4d-989d-4918-860a-fe33bf8b4244" />
+<img width="700" alt="Rakesh Sen Portfolio Banner" src="https://github.com/user-attachments/assets/fcb25b4d-989d-4918-860a-fe33bf8b4244" />
   
   # Hi there! I'm Rakesh Sen 👋
   ### 📊 Data Scientist | Machine Learning & AI Enthusiast
