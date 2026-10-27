@@ -2,7 +2,7 @@
 <img width="700" alt="Rakesh Sen Portfolio Banner" src="https://github.com/user-attachments/assets/fcb25b4d-989d-4918-860a-fe33bf8b4244" />
   
   # Hi there! I'm Rakesh Sen 👋
-  ### 📊 Data Scientist | Machine Learning & AI Enthusiast
+  ### 📊 Data Scientist | Machine Learning Enigineer
   
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Available_for_opportunities-brightgreen?style=for-the-badge&logo=appveyor" alt="Available for opportunities"/>
@@ -15,8 +15,8 @@
 Passionate about turning raw data into meaningful stories. I explore, clean, visualize, and analyze data to uncover insights that drive real decisions. Currently focusing on Data Science, Machine Learning, and building end-to-end intelligent systems.
 
 - 🌱 Pursuing B.Sc. (Hons) in Computer Science & Engineering (CSE)
-- 💡 Passionate about MLOps, Data Analytics, and AI Engineering
-- 📫 Reach out to me: [rakeshsen.se@gmail.com](mailto:rakeshsen.se@gmail.com) (or your email)
+- 💡 Passionate about MLOps, Data Scientist, and ML Engineering
+- 📫 Reach out to me: [rakeshsen7515699@gmail.com]
 
 ---
 
